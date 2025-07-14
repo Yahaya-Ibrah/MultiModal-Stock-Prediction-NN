@@ -26,8 +26,7 @@ This project explores the use of deep learning (LSTM) for predicting NASDAQ stoc
 ## 📊 Results
 
 - LSTM performed incredibly well on test accuracy and trend prediction
-- Models like GRU and Bi-LSTM will be evaluated and added in future commits
-
+- Other models (GRU, Bi-LSTM, Attention) were explored and will be added later after optimization.
 ## ⚙️ Tools Used
 
 - Python, Keras, TensorFlow, FinBERT, Pandas, Matplotlib
